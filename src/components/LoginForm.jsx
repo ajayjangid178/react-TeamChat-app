@@ -39,6 +39,8 @@ const LoginForm = () => {
                         
                     </div>
                 </form>
+                <h5>username:test</h5>
+                <h5>pass:1234</h5>
                 <h1>{error}</h1>
             </div>
 
